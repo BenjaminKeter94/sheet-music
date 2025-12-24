@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SheetMusic Morph",
+  "description": "An adaptive arrangement generator that dynamically rewrites sheet music based on difficulty, hand size, and musical style using Gemini AI.",
+  "requestFramePermissions": []
+}
